@@ -1,0 +1,107 @@
+[
+    {
+        "id": 14434474,
+        "id_str": "14434474",
+        "name": "Tim O'Brien, PR & Podcasting",
+        "screen_name": "OBrienPR",
+        "location": "Pittsburgh, PA",
+        "description": "Owner @ O’Brien Communications. Creator @ShapingOpinion Podcast. \nPerception is not reality. Reality is reality. That's where we start.",
+        "url": "https://t.co/Lz5dgYEDPN",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Lz5dgYEDPN",
+                        "expanded_url": "http://obriencommunications.com",
+                        "display_url": "obriencommunications.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1157,
+        "friends_count": 800,
+        "listed_count": 122,
+        "created_at": "Fri Apr 18 15:54:18 +0000 2008",
+        "favourites_count": 1085,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6283,
+        "lang": null,
+        "status": {
+            "created_at": "Sat Jan 25 00:32:01 +0000 2020",
+            "id": 1220866881818628097,
+            "id_str": "1220866881818628097",
+            "text": "I get 2 tweets in succession, one from the Penguins, one from the Pirates. One features a world class player. The o… https://t.co/SB7AkStV6a",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/SB7AkStV6a",
+                        "expanded_url": "https://twitter.com/i/web/status/1220866881818628097",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1220806007162593283,
+            "quoted_status_id_str": "1220806007162593283",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193368732967546880/IWMeNEzc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193368732967546880/IWMeNEzc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14434474/1536466324",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    }
+]

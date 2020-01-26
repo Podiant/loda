@@ -1,0 +1,7 @@
+---
+storage: tests.storage.TestEngine
+actors:
+    - tests.faulty
+
+test:
+    - save value

@@ -1,0 +1,12 @@
+.DS_Store
+*.pyc
+/.coverage
+/.env
+/.pytest_cache
+/*.egg-info
+/bin
+/fixtures
+/htmlcov
+/include
+/lib
+/pyvenv.cfg

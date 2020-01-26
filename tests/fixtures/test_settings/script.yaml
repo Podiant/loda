@@ -1,0 +1,6 @@
+---
+actors:
+    - tests.settings
+
+settings:
+    - set foo from BAR

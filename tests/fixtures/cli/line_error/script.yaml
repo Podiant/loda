@@ -1,0 +1,6 @@
+---
+actors:
+    - tests.faulty
+
+test:
+    - raise exception

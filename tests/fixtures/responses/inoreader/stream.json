@@ -1,0 +1,735 @@
+{
+    "direction": "ltr",
+    "id": "user/-/state/com.google/starred",
+    "title": "Starred",
+    "description": "",
+    "self": {
+        "href": "https://www.inoreader.com/reader/api/0/stream/contents/user/-/state/com.google/starred"
+    },
+    "updated": 1579971870,
+    "updatedUsec": "1579971870268069",
+    "items": [
+        {
+            "crawlTimeMsec": "1579854812000",
+            "timestampUsec": "1579854812000000",
+            "id": "tag:google.com,2005:reader/item/000000055ce0b9cd",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred",
+                "user/1006207154/label/Podcasting",
+                "user/1006207154/label/loda"
+            ],
+            "title": "Podcast listening without the app",
+            "published": 1579772675,
+            "updated": 1579874411,
+            "starred": 1579854812,
+            "enclosure": [
+                {
+                    "href": "https://chtbl.com/track/podnews.net/audio/podnews200123.m4a",
+                    "type": "audio/x-m4a",
+                    "length": "99999"
+                }
+            ],
+            "canonical": [
+                {
+                    "href": "https://podnews.net/update/podinstall-launches"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "https://podnews.net/update/podinstall-launches",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "\n                <center>\n                    <div style=\"text-align:center;color:#424242;font-size:0.8em;margin-bottom:30px;\">\n                        <div>\n                            Ads from Inoreader &bull; <a target=\"_blank\" style=\"text-decoration:underline;color:#424242;\" href=\"https://www.inoreader.com/about_ads\">Remove</a>\n                        </div>\n                        <div style=\"margin-top:10px;\">\n                            <a href=\"https://www.inoreader.com/adv/www/delivery/ck.php?n=a49f975d&cb=5e2c751e41c02\" target=\"_blank\"><img src=\"https://www.inoreader.com/adv/www/delivery/avw.php?zoneid=23&from_api=1&cb=5e2c751e41c02&n=a49f975d&sens=0&pd=2\" style=\"border:0;width:320px;height:50px;margin:0; auto 0 auto !important;float:none !important;\"></a>\n                        </div>\n                    </div>\n                    <div style=\"clear:both;\">\n                    </div>\n                </center><p><small>Visit <a href=\"https://podnews.net/update/podinstall-launches\">https://podnews.net/update/podinstall-launches</a> for all the links, and to subscribe.</small></p>  \n        \n<img src=\"https://podnews.net/r/a/800/podinstall.jpeg\" alt=\"Podcast listening without the app\" height=\"400\" width=\"800\"><ul><li><a href=\"https://podinstall.com?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=podnews.net:2020-01-23\">PodInstall</a> is a new product that lets podcasts to be listened-to and subscribed <a href=\"https://podnews.net/press-release/podinstall\">in an app-like experience without installing an app</a>. Speaking to Podnews this morning at the European Radio Show, Pierre Orlac'h said the app has trebled the amount of listens for his podcasts from his website. \"A lot of people just want the content, and don't want to install anything,\" he told us; you can put your favourite podcast on your phone's app list, and receive notifications whenever shows are released. <a href=\"https://podcasts.podinstall.com/podnews-llc-podnews-podcasting-news/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=podnews.net:2020-01-23\">Here's Podnews on PodInstall</a> - the product is free, with additional paid options.</li> \n<li><a href=\"https://www.wsj.com/articles/maker-of-hit-podcast-serial-explores-sale-11579717347?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=podnews.net:2020-01-23\">Serial is for sale</a>, says The Wall Street Journal: Serial Productions is, apparently, being courted by the New York Times.</li> \n<li>What are the much-rumoured shows to be made by Apple Podcasts? Perhaps we have an answer today: <a href=\"https://www.latimes.com/entertainment-arts/business/story/2020-01-21/apple-planning-to-make-original-podcasts-promoting-its-tv-shows?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=podnews.net:2020-01-23\">Apple is to make original podcasts to promote its TV shows</a>, claims an article from the Los Angeles Times.</li> \n</ul><div style=\"background:#eee;padding:10px;margin:0 auto;\"><small><strong>Classifieds</strong> - <a href=\"https://podnews.net/classifieds/\">your job or ad here</a></small><p><a href=\"https://podnews.net/class-click/396/2020-01-23\">Help Supercast win a 2019 Product Hunt Award</a> — Supercast is nominated for a Golden Kitty Award in the Audio &amp; Voice category. Help us win by voting! (Voting closes Saturday at 7am)</p><p><a href=\"https://podnews.net/class-click/454/2020-01-23\">Promote your podcast to 1000s of avid listeners</a> — sponsor Podcast Brunch Club to promote your podcast to an engaged podcast listener community that meets up IN PERSON monthly in 70+ cities across 6 continents to talk about podcasts</p><p><a href=\"https://podnews.net/class-click/480/2020-01-23\">Be part of Podfest's podcast service marketplace!</a> — Podfest is hosting an in-person marketplace where all kinds of service providers get to meet podcasters in real time and be hired on the spot! Buy your ticket to be part of the action!</p><p><a href=\"https://podnews.net/class-click/489/2020-01-23\">The podcast conference of the year is next month!</a> — Join podcasters and professionals from across the industry at EVOLUTIONS in February in Los Angeles. Code PODNEWS saves $50 off registration to be a part of the can't miss podcast event of the year!</p><p><a href=\"https://podnews.net/class-click/485/2020-01-23\">Get involved with the Publisher Podcast Awards</a> — Want to reach editors and podcast makers at publishing companies? Find out how to sponsor our awards.</p></div><ul><li>Podcast app <a href=\"https://www.pocketcasts.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=podnews.net:2020-01-23\">Pocket Casts</a> has received an upgrade. Version 7.7 offers curated lists (\"working with well-known podcasters and thought leaders\"), and highlights from individual podcast networks including WNYC, Wondery and Radiotopia. Interested publishers should <a href=\"https://www.pocketcasts.com/podcast-producers/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=podnews.net:2020-01-23\">look here</a> for more detail.</li> \n<li>Audio production company <a href=\"https://podnews.net/press-release/audity-spotify\">Audity has announced a production partnership with Spotify</a>, and will \"produce podcasts and audio-forward content across all scripted and unscripted genres for Spotify’s global audience\". The company has also hired Frank Hajdu as Executive Vice President.</li> \n</ul><h2>Nuzum</h2> \n<ul><li><a href=\"https://www.podchaser.com/articles/inside-podchaser/triton-digital-integrates-omny-studio-with-podchaser-to-enable-creator-guest-credits-within-hosting-platform?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=podnews.net:2020-01-23\">Omny Studio is now integrated with Podchaser</a> - allowing you to add creator and guest credits within the Omny Studio podcast platform.</li> \n<li><a href=\"https://9to5google.com/2020/01/21/google-podcasts-timestamp-sharing/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=podnews.net:2020-01-23\">Google Podcasts has added timestamp sharing</a>, so you can share a specific bit of a podcast with a friend. The podcast app has also had a few small tweaks. PS: <a href=\"http://IsGooglePlayMusicPodcastsStillAThing.com?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=podnews.net:2020-01-23\">IsGooglePlayMusicPodcastsStillAThing·com</a></li> \n</ul><h2>Advice</h2> \n<ul><li><a href=\"https://medium.com/@joshkaplan_79974/how-morning-brews-first-podcast-hit-1-million-downloads-530df3aafb14?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=podnews.net:2020-01-23\">Here's how Morning Brew's podcast hit one million downloads</a> - Josh Kaplan shares some of the company's secrets, including content atomisation.</li> \n<li>PR Daily warns us about <a href=\"https://www.prdaily.com/5-blunders-to-avoid-with-your-internal-podcast/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=podnews.net:2020-01-23\">five blunders to avoid with your internal podcast</a>. Being boring is apparently one of those.</li> \n</ul><p><strong>Our supporters</strong> (<a href=\"https://podnews.net/article/advertising\">become one</a>): </p><p>Gold supporters: <a href=\"https://www.buzzsprout.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Buzzsprout</a>, <a href=\"https://www.jaraudio.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Jar Audio</a>, <a href=\"https://www.voxnest.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Voxnest</a>, <a href=\"https://awesound.com/podcasting?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Awesound</a>, <a href=\"https://www.acast.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Acast</a>, <a href=\"https://www.podcorn.fm/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podcorn</a>, <a href=\"https://www.roostnetwork.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">The Roost</a>, <a href=\"http://www.art19.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">ART19</a>, <a href=\"https://www.megaphone.fm/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Megaphone</a>, <a href=\"https://www.callforcontent.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Call for Content</a>, <a href=\"https://www.warnermediagroup.com/podcast?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">WarnerMedia Podcast Network</a>, <a href=\"https://luminarypodcasts.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Luminary</a>, <a href=\"https://evergreenpodcasts.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Evergreen Podcasts</a>, <a href=\"http://himalaya.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Himalaya</a>, <a href=\"https://www.oneofoneproductions.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">One of One Productions Podcast Studio</a>, <a href=\"https://libsyn.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Libsyn</a>, <a href=\"https://podcastpress.io/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podcast Press</a>, <a href=\"https://www.weeditpodcasts.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">We Edit Podcasts</a>, <a href=\"https://podcasters.spotify.com?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Spotify for Podcasters</a>, <a href=\"https://simplecast.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Simplecast</a>, <a href=\"https://knit.audio/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Knit</a>, <a href=\"https://launchpod.media/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">LaunchPod Media</a>, <a href=\"https://www.entale.co/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Entale</a>, <a href=\"https://www.futurimedia.com/post?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">POST by Futuri</a>, <a href=\"https://www.futurimedia.com?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Futuri Media</a></p><p>Silver supporters: <a href=\"https://www.message-heard.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Message Heard</a>, <a href=\"https://www.xperi.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Xperi</a>, <a href=\"https://www.thisisaim.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">All In Media</a>, <a href=\"https://fireside.fm/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Fireside</a>, <a href=\"https://www.lantiguawilliams.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Lantigua Williams and Co</a>, <a href=\"https://bullhorn.fm/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Bullhorn</a>, <a href=\"https://www.ausha.co/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Ausha</a>, <a href=\"https://www.podfront.co.uk/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podfront</a>, <a href=\"https://www.somethinelse.com/work/podcasts-radio-stations-smart-speakers/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Somethin'Else</a>, <a href=\"https://www.magellan.ai/?SQF_SOURCE=podnews&amp;utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podcast Ad Report</a>, <a href=\"https://www.podcast.co/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">podcast.co</a>, <a href=\"https://www.dante32.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Dante 32</a>, <a href=\"https://www.waitwhat.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">WaitWhat</a>, <a href=\"https://podcastguests.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podcast Guests</a>, <a href=\"https://mytuner-radio.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">myTuner</a>, <a href=\"https://www.radio.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">radio.com</a>, <a href=\"https://thevennmedia.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">The Venn</a>, <a href=\"https://www.whooshkaa.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Whooshkaa</a>, <a href=\"http://www.ba-ba-bam.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Bababam</a>, <a href=\"http://www.wearerockwater.com?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">RockWater Industries</a>, <a href=\"https://www.headliner.app/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Headliner</a>, <a href=\"https://www.podcastsuccessacademy.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podcast Success Academy</a>, <a href=\"https://www.iheart.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">iHeartRadio</a>, <a href=\"https://rebelbasemedia.io/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Rebel Base Media</a>, <a href=\"https://www.lemonadamedia.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Lemonada Media</a>, <a href=\"https://castbox.fm/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Castbox</a>, <a href=\"https://podcast.taxi/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podcast Taxi</a>, <a href=\"https://www.podcastdesign.studio/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podcast Design Studio</a>, <a href=\"https://www.poductivity.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Poductivity</a>, <a href=\"https://go.pardot.com/l/265352/2019-02-04/s2m88?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">NPR</a>, <a href=\"https://glisten.media/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Glisten Media Podcast Production</a>, <a href=\"https://www.captivate.fm/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Captivate</a>, <a href=\"https://www.heartcastmedia.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Heartcast Media50</a>, <a href=\"https://sonicim.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Sonic Influencer Marketing</a>, <a href=\"https://pacific-content.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Pacific Content</a>, <a href=\"https://podcastwebsites.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podcast Websites</a>, <a href=\"https://gosynth.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Synth</a>, <a href=\"http://muddykneesmedia.com?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Muddy Knees Media</a>, <a href=\"https://audioboom.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">audioBoom</a>, <a href=\"https://www.everythingwithpodcasting.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">EverythingWithPodcasting</a>, <a href=\"https://www.adresultsmedia.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Ad Results Media</a>, <a href=\"https://benztownbranding.com/formats/podcast?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Benztown</a>, <a href=\"https://www.content10x.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Content10x</a>, <a href=\"http://oxfordroad.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Oxford Road</a>, <a href=\"https://www.auscastnetwork.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Auscast Network</a>, <a href=\"https://podcastpartnership.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podcast Partnership</a>, <a href=\"https://www.auxbus.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Auxbus</a>, <a href=\"https://statsradio.com/#en?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">StatsRadio</a>, <a href=\"https://knowornot.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Know or Not? Podcast Network</a>, <a href=\"https://thisisdax.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">DAX</a>, <a href=\"http://www.mediamasters.fm/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Media Masters</a>, <a href=\"https://podschool.com.au/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Rachel Corbett\\s Podschool</a>, <a href=\"https://creativezombie.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Creative Zombie Studios</a>, <a href=\"https://echowave.io/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">echowave.io</a>, <a href=\"https://chartable.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Chartable</a>, <a href=\"https://podiant.co/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podiant</a>, <a href=\"https://www.streamguys.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">StreamGuys</a>, <a href=\"https://alitu.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Alitu</a>, <a href=\"https://www.nlogic.ca/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">nlogic</a>, <a href=\"https://www.shepodcasts.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">She Podcasts</a>, <a href=\"http://cleanfeed.net/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Cleanfeed</a>, <a href=\"https://adopter.media/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Adopter Media</a>, <a href=\"http://thetalentsquad.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">The Talent Squad</a>, <a href=\"https://veritoneone.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Veritone One</a>, <a href=\"https://twitter.com/margarita?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Margarita Noriega</a>, <a href=\"http://www.schoolofpodcasting.com/podnews?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">School of Podcasting</a>, <a href=\"http://toppodcast.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">TopPodcast.com</a>, <a href=\"https://sonix.ai/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Sonix</a>, <a href=\"http://www.midroll.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Midroll</a>, <a href=\"http://cadence13.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Cadence13</a>, <a href=\"https://www.podbean.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podbean</a>, <a href=\"https://podigy.co/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podigy</a>, <a href=\"https://podknife.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podknife</a>, <a href=\"https://pippa.io/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Pippa</a>, <a href=\"http://lowerstreet.co/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Lower Street</a>, <a href=\"https://www.blubrry.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Blubrry</a>, <a href=\"https://stakhanov.studio/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Stakhanov</a>, <a href=\"https://thepodcastexchange.ca/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">The Podcast Exchange</a>, <a href=\"https://podcastmovement.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podcast Movement</a>, <a href=\"https://resonaterecordings.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Resonate Recordings</a>, <a href=\"http://www.revolverpodcasts.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Revolver Podcasts</a>, <a href=\"https://wondery.com?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Wondery</a>, <a href=\"http://www.adswizz.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">adswizz</a>, <a href=\"http://www.nobexpartners.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Nobex Partners</a>, <a href=\"https://omnystudio.com/learn?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Omny Studio</a>, <a href=\"http://www.edisonresearch.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Edison Research</a>, <a href=\"https://www.tritondigital.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Triton Digital</a>, <a href=\"https://www.lightfm.com.au/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">89.9 Light FM Melbourne</a>, <a href=\"https://www.audience-insights.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Audience Insights Inc</a>, <a href=\"http://www.podrover.com/?utm_source=podnews.net&amp;utm_medium=rss&amp;utm_campaign=supporter\">Podrover</a></p><p><a href=\"https://podnews.net/patreon\">Support us</a></p>"
+            },
+            "author": "james@crid.land (James Cridland)",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/https://podnews.net/rss",
+                "title": "Podnews",
+                "htmlUrl": "https://podnews.net/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1545119479000",
+            "timestampUsec": "1545119479000000",
+            "id": "tag:google.com,2005:reader/item/00000004474de85f",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred"
+            ],
+            "title": "Women are fuelling the growth of true crime podcasts. Here's why - ABC News",
+            "published": 1545107460,
+            "updated": 1545134043,
+            "starred": 1545119479,
+            "canonical": [
+                {
+                    "href": "https://www.abc.net.au/life/why-women-love-true-crime-podcasts/10627390"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "https://www.abc.net.au/life/why-women-love-true-crime-podcasts/10627390",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<a href=\"https://www.abc.net.au/life/why-women-love-true-crime-podcasts/10627390\">Women are fuelling the growth of true crime podcasts. Here's why</a>  ABC News<p>As long as women are subjected to male violence, clasping homemade signs and listening to true crime stories might be how we grapple with it, Katie ...</p>"
+            },
+            "author": "",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://news.google.com/news?hl=en&gl=us&q=podcasting&um=1&ie=UTF-8&output=rss",
+                "title": "podcasting - Google News",
+                "htmlUrl": "https://news.google.com/news?hl=en&gl=us&pz=1&ned=us&q=podcasting"
+            }
+        },
+        {
+            "crawlTimeMsec": "1542925297000",
+            "timestampUsec": "1542925297000000",
+            "id": "tag:google.com,2005:reader/item/000000043442751c",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred",
+                "user/1006207154/label/Podcasting"
+            ],
+            "title": "Deezer adds podcasting to its app in Colombia",
+            "published": 1542884400,
+            "updated": 1544854668,
+            "starred": 1542925297,
+            "enclosure": [
+                {
+                    "href": "https://chtbl.com/track/podnews.net/audio/podnews181122.m4a",
+                    "type": "audio/aac",
+                    "length": "99999"
+                }
+            ],
+            "canonical": [
+                {
+                    "href": "https://podnews.net/update/deezer-colombia"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "https://podnews.net/update/deezer-colombia",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<p><small>Visit <a href=\"https://podnews.net/update/deezer-colombia\">https://podnews.net/update/deezer-colombia</a> for all the links, and to subscribe.</small></p>  \n        \n        <p>This update has been archived. Visit the URL above.</p><p><a href=\"https://www.patreon.com/radiofuturologist\">Support us</a></p>"
+            },
+            "author": "james@crid.land (James Cridland)",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/https://podnews.net/rss",
+                "title": "Podnews",
+                "htmlUrl": "https://podnews.net/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1519371335000",
+            "timestampUsec": "1519371335000000",
+            "id": "tag:google.com,2005:reader/item/000000037643ea42",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred",
+                "user/1006207154/label/Tech"
+            ],
+            "title": "The Life and Death of Twitter for Mac",
+            "published": 1519324408,
+            "updated": 0,
+            "starred": 1519371335,
+            "canonical": [
+                {
+                    "href": "https://www.youtube.com/watch?v=yfLf8ML8Fho"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "https://www.youtube.com/watch?v=yfLf8ML8Fho",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"640\" height=\"390\" src=\"https://www.youtube.com/embed/yfLf8ML8Fho?feature=oembed\" frameborder=\"0\"></iframe></p><p>Rene Ritchie had me and a few special guests on his show to talk about the late great Twitter for Mac. Forget about the fact that I’m on it — I’m really intrigued by what Rene is doing with this show and the video format.</p>  \n  \n<div>  \n<a title=\"Permanent link to ‘The Life and Death of Twitter for Mac’\" href=\"https://daringfireball.net/linked/2018/02/22/the-life-and-death-of-twitter-for-mac\"> ★ </a>  \n</div>"
+            },
+            "author": "John Gruber",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://daringfireball.net/index.xml",
+                "title": "Daring Fireball",
+                "htmlUrl": "http://daringfireball.net/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1506033446000",
+            "timestampUsec": "1506033446000000",
+            "id": "tag:google.com,2005:reader/item/000000031154cc07",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred",
+                "user/1006207154/label/Tech"
+            ],
+            "title": "11 Tips for iOS 11",
+            "published": 1506033271,
+            "updated": 1506068345,
+            "starred": 1506033446,
+            "canonical": [
+                {
+                    "href": "https://www.wsj.com/articles/ios-11-is-here-try-these-hidden-tricks-for-your-iphone-1505844802"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "https://www.wsj.com/articles/ios-11-is-here-try-these-hidden-tricks-for-your-iphone-1505844802",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<p>A bunch of good tips packed into a 2.5-minute video by Joanna Stern.</p><div><a title=\"Permanent link to ‘11 Tips for iOS 11’\" href=\"https://daringfireball.net/linked/2017/09/21/joanna-stern-ios-11\"> ★ </a></div>"
+            },
+            "author": "John Gruber",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://daringfireball.net/index.xml",
+                "title": "Daring Fireball",
+                "htmlUrl": "http://daringfireball.net/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1505907670000",
+            "timestampUsec": "1505907670000000",
+            "id": "tag:google.com,2005:reader/item/00000003105745ce",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred",
+                "user/1006207154/label/Tech"
+            ],
+            "title": "Hidden golf game found on Nintendo Switch",
+            "published": 1505907295,
+            "updated": 0,
+            "starred": 1505907670,
+            "canonical": [
+                {
+                    "href": "http://www.bbc.co.uk/news/technology-41336424"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "http://www.bbc.co.uk/news/technology-41336424",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<p><img src=\"http://c.files.bbci.co.uk/3631/production/_97937831_p05gpt0n.jpg\" alt=\"_97937831_p05gpt0n.jpg\"></p>Fans think the \"Easter egg\" is a tribute to the company’s late president Satoru Iwata."
+            },
+            "author": "",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://newsrss.bbc.co.uk/rss/newsonline_world_edition/technology/rss.xml",
+                "title": "Technology in BBC News",
+                "htmlUrl": "http://www.bbc.co.uk/news/technology/#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa"
+            }
+        },
+        {
+            "crawlTimeMsec": "1469349880000",
+            "timestampUsec": "1469349880000000",
+            "id": "tag:google.com,2005:reader/item/0000000215d6776c",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred"
+            ],
+            "title": "Man sees colors for the first time",
+            "published": 1469290933,
+            "updated": 0,
+            "starred": 1469349880,
+            "canonical": [
+                {
+                    "href": "https://www.reddit.com/r/UpliftingNews/comments/4u8v2k/man_sees_colors_for_the_first_time/"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "https://www.reddit.com/r/UpliftingNews/comments/4u8v2k/man_sees_colors_for_the_first_time/",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<table><tr><td> <a href=\"https://www.reddit.com/r/UpliftingNews/comments/4u8v2k/man_sees_colors_for_the_first_time/\"> <img src=\"https://b.thumbs.redditmedia.com/Pgj73SO0h6AEhi6Lgtuq9WNCwHzWwaLKJB5-CTf9gOU.jpg\" alt=\"Man sees colors for the first time\" title=\"Man sees colors for the first time\"></a> </td><td>   submitted by   <a href=\"https://www.reddit.com/user/Dan_G_Erzone\"> /u/Dan_G_Erzone </a> <br><span><a href=\"http://www.kansascity.com/latest-news/article91464182.html\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/UpliftingNews/comments/4u8v2k/man_sees_colors_for_the_first_time/\">[comments]</a></span> </td></tr></table>"
+            },
+            "author": "/u/Dan_G_Erzone",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/https://www.reddit.com/r/UpliftingNews/.rss",
+                "title": "Uplifting News",
+                "htmlUrl": "https://www.reddit.com/r/UpliftingNews/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1469198031000",
+            "timestampUsec": "1469198031000000",
+            "id": "tag:google.com,2005:reader/item/0000000215043fb7",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred"
+            ],
+            "title": "Instead of riots, Cleveland has a party",
+            "published": 1469156412,
+            "updated": 0,
+            "starred": 1469198031,
+            "canonical": [
+                {
+                    "href": "https://www.reddit.com/r/UpliftingNews/comments/4u0rfy/instead_of_riots_cleveland_has_a_party/"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "https://www.reddit.com/r/UpliftingNews/comments/4u0rfy/instead_of_riots_cleveland_has_a_party/",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<table><tr><td> <a href=\"https://www.reddit.com/r/UpliftingNews/comments/4u0rfy/instead_of_riots_cleveland_has_a_party/\"> <img src=\"https://b.thumbs.redditmedia.com/FghEHVGdyyohtjiRWNs44jLyIXHcM2otqzwWSAkzLJU.jpg\" alt=\"Instead of riots, Cleveland has a party\" title=\"Instead of riots, Cleveland has a party\"></a> </td><td>   submitted by   <a href=\"https://www.reddit.com/user/someyoungoldguy\"> /u/someyoungoldguy </a>   to   <a href=\"https://www.reddit.com/r/UpliftingNews/\"> /r/UpliftingNews </a> <br><span><a href=\"https://www.washingtonpost.com/news/arts-and-entertainment/wp/2016/07/21/we-were-promised-a-riot-in-cleveland-we-got-a-block-party-instead/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/UpliftingNews/comments/4u0rfy/instead_of_riots_cleveland_has_a_party/\">[comments]</a></span> </td></tr></table>"
+            },
+            "author": "/u/someyoungoldguy",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.idealistnews.com/.rss",
+                "title": "reddit: the front page of the internet",
+                "htmlUrl": "http://www.reddit.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1469175910000",
+            "timestampUsec": "1469175910000000",
+            "id": "tag:google.com,2005:reader/item/0000000214d80fdc",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred"
+            ],
+            "title": "UK's first Double Hand Transplant operation has been a 'tremendous' success",
+            "published": 1469155588,
+            "updated": 0,
+            "starred": 1469175910,
+            "canonical": [
+                {
+                    "href": "https://www.reddit.com/r/UpliftingNews/comments/4u0pbj/uks_first_double_hand_transplant_operation_has/"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "https://www.reddit.com/r/UpliftingNews/comments/4u0pbj/uks_first_double_hand_transplant_operation_has/",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<table><tr><td> <a href=\"https://www.reddit.com/r/UpliftingNews/comments/4u0pbj/uks_first_double_hand_transplant_operation_has/\"> <img src=\"https://b.thumbs.redditmedia.com/S9cWIrffSv_357ucKbdn8NUW0-YvXRFIqEnn0S2uj3A.jpg\" alt=\"UK's first Double Hand Transplant operation has been a 'tremendous' success\" title=\"UK's first Double Hand Transplant operation has been a 'tremendous' success\"></a> </td><td>   submitted by   <a href=\"https://www.reddit.com/user/CharlieTT\"> /u/CharlieTT </a> <br><span><a href=\"http://www.bbc.co.uk/news/health-36858169\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/UpliftingNews/comments/4u0pbj/uks_first_double_hand_transplant_operation_has/\">[comments]</a></span> </td></tr></table>"
+            },
+            "author": "/u/CharlieTT",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/https://www.reddit.com/r/UpliftingNews/.rss",
+                "title": "Uplifting News",
+                "htmlUrl": "https://www.reddit.com/r/UpliftingNews/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1411141229000",
+            "timestampUsec": "1411141229000000",
+            "id": "tag:google.com,2005:reader/item/00000000bd3de994",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred"
+            ],
+            "title": "pup",
+            "published": 1411135208,
+            "updated": 0,
+            "starred": 1411141229,
+            "canonical": [
+                {
+                    "href": "http://onethingwell.org/post/97887596570"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "http://onethingwell.org/post/97887596570",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "\n                <center>\n                    <div style=\"text-align:center;color:#424242;font-size:0.8em;margin-bottom:30px;\">\n                        <div>\n                            Ads from Inoreader &bull; <a target=\"_blank\" style=\"text-decoration:underline;color:#424242;\" href=\"https://www.inoreader.com/about_ads\">Remove</a>\n                        </div>\n                        <div style=\"margin-top:10px;\">\n                            <a href=\"https://www.inoreader.com/adv/www/delivery/ck.php?n=a49f975d&cb=5e2c751e41e23\" target=\"_blank\"><img src=\"https://www.inoreader.com/adv/www/delivery/avw.php?zoneid=23&from_api=1&cb=5e2c751e41e23&n=a49f975d&sens=0&pd=2\" style=\"border:0;width:320px;height:50px;margin:0; auto 0 auto !important;float:none !important;\"></a>\n                        </div>\n                    </div>\n                    <div style=\"clear:both;\">\n                    </div>\n                </center><a href=\"https://github.com/EricChiang/pup\">pup</a>: <blockquote>\n  <p>pup is a command line tool for processing HTML. It reads from stdin, prints to stdout, and allows the user to filter parts of the page using CSS selectors.</p>\n  \n  <p>Inspired by <a href=\"http://onethingwell.org/post/34569347940/jq\" title=\"jq\">jq</a>, pup aims to be a fast and flexible way of exploring HTML from the terminal.</p>\n</blockquote>"
+            },
+            "author": "",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://onethingwell.org/rss",
+                "title": "One Thing Well",
+                "htmlUrl": "http://onethingwell.org/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1409058956000",
+            "timestampUsec": "1409058956000000",
+            "id": "tag:google.com,2005:reader/item/00000000b31862e7",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred"
+            ],
+            "title": "github-backup",
+            "published": 1409054421,
+            "updated": 0,
+            "starred": 1409058956,
+            "canonical": [
+                {
+                    "href": "http://onethingwell.org/post/95817846043"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "http://onethingwell.org/post/95817846043",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<a href=\"https://github.com/joeyh/github-backup\">github-backup</a>: <blockquote>\n  <p>github-backup is a simple tool you run in a git repository you cloned from GitHub. It backs up everything GitHub publishes about the repository, including branches, tags, other forks, issues, comments, wikis, milestones, pull requests, watchers, and stars.</p>\n</blockquote>"
+            },
+            "author": "",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://onethingwell.org/rss",
+                "title": "One Thing Well",
+                "htmlUrl": "http://onethingwell.org/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1409050943000",
+            "timestampUsec": "1409050943000000",
+            "id": "tag:google.com,2005:reader/item/00000000b30bb633",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred"
+            ],
+            "title": "This beautifully bleak cartoon by Pawel Kuczynski neatly says what we all guess about Facebook",
+            "published": 1409049030,
+            "updated": 0,
+            "starred": 1409050943,
+            "canonical": [
+                {
+                    "href": "http://usvsth3m.com/post/95814105708"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "http://usvsth3m.com/post/95814105708",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<h4>A surveillance based periscope? Something like that anyway</h4>\n<p><img src=\"http://i.imgur.com/aCV9PTg.jpg\" width=\"600\"></p>\n<p><small>Pic: <a href=\"http://www.pawelkuczynski.com/Prace/Cartoons/index.php\">Pawel Kuczynski</a></small></p>\n<h4>Pawel Kuczynski has a lovely style of illustration, and often uses his cartoons to make satirical points</h4>\n<p>This speech making businessman talking nothing but oil for example.</p>\n<p><img src=\"http://i.imgur.com/WSChOis.jpg\" width=\"600\"></p>\n<p><small>Pic: <a href=\"http://www.pawelkuczynski.com/Prace/Cartoons/index.php\">Pawel Kuczynski</a></small></p>\n<p>Or the real producers of Santa’s toys…</p>\n<p><img src=\"http://i.imgur.com/nQRlKly.jpg\" width=\"600\"></p>\n<p><small>Pic: <a href=\"http://www.pawelkuczynski.com/Prace/Cartoons/index.php\">Pawel Kuczynski</a></small></p>\n<h4>You can see more of his work, and see what he has for sale here: <a href=\"http://www.pawelkuczynski.com/index.php\">pawelkuczynski.com</a>\n</h4><p>Via <a href=\"https://twitter.com/thereaIbanksy/status/504077067311263744/photo/1\">@thereaIbanksy</a></p>"
+            },
+            "author": "",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://usvsth3m.com/rss",
+                "title": "Us Vs Th3m",
+                "htmlUrl": "http://usvsth3m.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1398685882000",
+            "timestampUsec": "1398685882000000",
+            "id": "tag:google.com,2005:reader/item/000000008234e56b",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred"
+            ],
+            "title": "Facebook's got Moves",
+            "published": 1398684300,
+            "updated": 0,
+            "starred": 1398685882,
+            "canonical": [
+                {
+                    "href": "http://www.wired.co.uk/news/archive/2014-04/28/facebook-buys-moves"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "http://www.wired.co.uk/news/archive/2014-04/28/facebook-buys-moves",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<a href=\"http://www.wired.co.uk/news/archive/2014-04/28/facebook-buys-moves\" title=\"Facebook's got Moves \"><img src=\"http://cdni.wired.co.uk/620x413/d_f/Fish_2.jpg\" alt=\"Fish\" border=\"0\"></a><br><p>Facebook is still on the acquisition warpath; it has just\nsnapped up activity tracking app Moves.</p>\n\n<p>Moves is created by a Finnish company called ProtoGo and\nmonitors physical activity without the need for any wearable\nsensor. It sits in the background of your mobile phone and learns\nyour daily routine using the device's sensors and location to track\nwhether you are walking, cycling or running. The team is made up of\nthe founders of Habbo and ex Nokia employees.</p>\n<p>By: Olivia Solon, </p><a href=\"http://www.wired.co.uk/news/archive/2014-04/28/facebook-buys-moves\" title=\"Facebook's got Moves \">Continue reading...</a>"
+            },
+            "author": "Olivia Solon",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.wired.co.uk/rss.aspx",
+                "title": "Wired.co.uk",
+                "htmlUrl": "http://www.wired.co.uk/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1398674352000",
+            "timestampUsec": "1398674352000000",
+            "id": "tag:google.com,2005:reader/item/000000008224c107",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred"
+            ],
+            "title": "John Oliver's new show impresses critics",
+            "published": 1398674352,
+            "updated": 0,
+            "starred": 1398674352,
+            "canonical": [
+                {
+                    "href": "http://www.chortle.co.uk/news/2014/04/28/20071/john_olivers_new_show_impresses_critics?rss"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "http://www.chortle.co.uk/news/2014/04/28/20071/john_olivers_new_show_impresses_critics?rss",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "...but is it too close to The Daily Show?"
+            },
+            "author": "",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.chortle.co.uk/rss/",
+                "title": "Chortle News RSS",
+                "htmlUrl": "http://www.chortle.co.uk/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1398659561000",
+            "timestampUsec": "1398659561000000",
+            "id": "tag:google.com,2005:reader/item/000000008212de1a",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred"
+            ],
+            "title": "Zack Snyder will direct a 'Justice League' movie to follow 'Batman vs. Superman'",
+            "published": 1398658878,
+            "updated": 0,
+            "starred": 1398659561,
+            "canonical": [
+                {
+                    "href": "http://www.theverge.com/2014/4/28/5660212/justice-league-movie-coming-with-zack-snyder-on-board"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "http://www.theverge.com/2014/4/28/5660212/justice-league-movie-coming-with-zack-snyder-on-board",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<img alt=\"\" src=\"http://cdn1.vox-cdn.com/uploads/chorus_image/image/32243915/GalleryChar_1900x900_JusticeLeague_52ab8e54d0a6f0.42170553.0_standard_800.0.jpg\"><p>A <i>Justice League</i> movie will follow <i>Batman vs. Superman</i>, and Zack Snyder (<i>300</i>, <i>Watchmen</i>, <i>Man of Steel</i>) is on board to direct again. Warner Bros' president of worldwide production Greg Silverman <a href=\"http://blogs.wsj.com/speakeasy/2014/04/27/warner-bros-details-plans-for-justice-league-movie-exclusive/\" target=\"_blank\">tells <i>The Wall Street Journal</i></a> that plans are in motion, with Henry Cavill, Ben Affleck, and Gal Gadot set to reprise their roles as Superman, Batman, and Wonder Woman. \"It will be a further expansion of this universe,\" says Silverman. \"<i>Superman vs. Batman</i> [sic] will lead into <i>Justice League</i>.\"</p>\n<p>A <i>Justice League</i> film that would unite several DC superheroes has been <a href=\"http://www.theverge.com/2014/1/23/5338814/actress-signed-for-wonder-woman-standalone-movie-and-justice-league-film\">rumored for some time</a>, but this represents the first official confirmation. Comic book action fans may have a while to wait, however — with <i>Batman vs. Superman</i> <a href=\"http://www.theverge.com/2014/1/17/5320874/batman-vs-superman-delayed-until-may-6th-2016\">delayed until May 6th, 2016</a>,...</p>\n  <p>\n    <a href=\"http://www.theverge.com/2014/4/28/5660212/justice-league-movie-coming-with-zack-snyder-on-board\">Continue reading…</a>\n  </p>"
+            },
+            "author": "Sam Byford",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.theverge.com/rss/frontpage",
+                "title": "The Verge -  All Posts",
+                "htmlUrl": "http://www.theverge.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1398631830000",
+            "timestampUsec": "1398631830000000",
+            "id": "tag:google.com,2005:reader/item/0000000081f9bd6a",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred"
+            ],
+            "title": "Dad's Army set for movie comeback",
+            "published": 1398587859,
+            "updated": 0,
+            "starred": 1398631830,
+            "canonical": [
+                {
+                    "href": "http://www.chortle.co.uk/news/2014/04/27/20067/dads_army_set_for_movie_comeback?rss"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "http://www.chortle.co.uk/news/2014/04/27/20067/dads_army_set_for_movie_comeback?rss",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "With Bill Nighy as Sgt Wilson"
+            },
+            "author": "",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.chortle.co.uk/rss/",
+                "title": "Chortle News RSS",
+                "htmlUrl": "http://www.chortle.co.uk/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1389151285000",
+            "timestampUsec": "1389151285000000",
+            "id": "tag:google.com,2005:reader/item/000000005807c540",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred"
+            ],
+            "title": "A Preview of Patton Oswalt&rsquo;s TRAGEDY PLUS COMEDY EQUALS TIME",
+            "published": 1389142820,
+            "updated": 0,
+            "starred": 1389151285,
+            "canonical": [
+                {
+                    "href": "http://www.nerdist.com/2014/01/a-preview-of-patton-oswalts-tragedy-plus-comedy-equals-time/"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "http://www.nerdist.com/2014/01/a-preview-of-patton-oswalts-tragedy-plus-comedy-equals-time/",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<p>While many comedians have taken the Louis C.K. methodology of developing comedy specials/albums at the pace of one per year, Patton Oswalt has continued to take a few years to record his latest hour. The results, as you’ve probably seen for yourself, have made Oswalt that rare comedian that gets both critical acclaim and commercial success. Do I even need to tell you to check out <a href=\"http://www.amazon.com/Patton-Oswalt-Weakness-Strong-Combo/dp/B002GHHJWM\" target=\"_blank\"><em>My Weakness Is Strong</em></a> or <a href=\"http://www.amazon.com/Patton-Oswalt-Finest-Hour/dp/B007197I4Y/\" target=\"_blank\"><em>Finest Hour</em></a> for proof? That time also allows to do all the other great things that Patton does, like be a force on Twitter, write books, make cameos in great web series, and, oh yeah, play memorable character roles in movies and television.</p>\n<p>For this new comedy special, <em>Tragedy Plus Comedy Equals Time</em>, Patton made a point of trying to not get on a single flight to develop the material (i.e. pretty much stay in Southern California), which is quite a feat if you’re a touring comedian. I got to catch one Oswalt in residency at <a href=\"http://www.fakedotcom.com/www.fakedotcom.com/fakedotcom.com.html\" target=\"_blank\">The Fake Gallery</a> here in L.A. and just have to say that you should all be looking forward, if you aren’t already, to next Friday, January 17th at 10/9c when <em>Tragedy Plus Comedy Equals Time</em> premieres on Epix (in other words, it was pretty great).</p>\n<p>Until then, you can watch <a href=\"https://www.youtube.com/watch?v=eDl_4ekxlys\" target=\"_blank\">this preview on what an updated Florida state flag should be</a>:</p>\n<p><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/eDl_4ekxlys\" height=\"346\" width=\"615\" allowfullscreen=\"\" frameborder=\"0\"></iframe></p>"
+            },
+            "author": "Jake Kroeger",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.nerdist.com/feed/",
+                "title": "Nerdist",
+                "htmlUrl": "http://www.nerdist.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1386133140000",
+            "timestampUsec": "1386133140000000",
+            "id": "tag:google.com,2005:reader/item/000000004bfd689a",
+            "categories": [
+                "user/1006207154/state/com.google/reading-list",
+                "user/1006207154/state/com.google/read",
+                "user/1006207154/state/com.google/starred"
+            ],
+            "title": "Watch Steve Carell Audition for ANCHORMAN",
+            "published": 1386122453,
+            "updated": 0,
+            "starred": 1386133140,
+            "canonical": [
+                {
+                    "href": "http://www.nerdist.com/2013/12/watch-steve-carell-audition-for-anchorman/"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "http://www.nerdist.com/2013/12/watch-steve-carell-audition-for-anchorman/",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<p><iframe allowfullscreen=\"allowfullscreen\" width=\"615\" height=\"346\" src=\"https://www.youtube.com/embed/NoKD6F10hbc\" frameborder=\"0\" allowfullscreen></iframe></p>\n<p><a href=\"http://www.nerdist.com/wp-content/uploads/2013/12/Carell.jpg\"><img src=\"http://www.nerdist.com/wp-content/uploads/2013/12/Carell.jpg\" alt=\"Carell\" width=\"450\" height=\"295\"></a>One of the many extras you’ll find on the new <a href=\"http://www.amazon.com/Anchorman-Burgundy-Unrated-Mahogany-Edition/dp/B0041B4B8G/ref=sr_1_1?ie=UTF8&qid=1386120911&sr=8-1&keywords=anchorman+rich+mahogany+edition\" target=\"_blank\"><em>Anchorman</em> – Rich Mahogany Edition Blu-ray</a> set (out now) is Steve Carell’s audition tape from back in 2003 when casting for the now-classic comedy took place. In this clip, Carell wows Will Ferrell, Adam McKay, and the others in attendance with his trademark commitment and odd loveability, both important parts of the character of Brick Tamland. Should he eat something out of the garbage? You be the judge.</p>\n<p>If you’d like to get your hands on the two-disc Blu-ray special edition of <em>Anchorman</em>, then you should enter our massive <a href=\"http://www.nerdist.com/2013/12/cyber-monday-nerdists-3rd-annual-holiday-gift-guide-giveaway/\" target=\"_blank\">Holiday Gift Guide Giveaway</a>, of which this movie is just one of the dozens of prizes available. Stay classy or whatever. </p>"
+            },
+            "author": "Kyle Anderson",
+            "likingUsers": [],
+            "comments": [],
+            "commentsNum": -1,
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.nerdist.com/feed/",
+                "title": "Nerdist",
+                "htmlUrl": "http://www.nerdist.com/"
+            }
+        }
+    ]
+}

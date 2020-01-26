@@ -1,0 +1,9 @@
+---
+fixtures:
+    - foo
+
+actors:
+    - tests.faulty
+
+test:
+    - get fixture
