@@ -9,3 +9,4 @@ install:
 
 script:
   - pytest --cov loda tests
+  - <(curl -s https://codecov.io/bash)
