@@ -16,7 +16,7 @@ def getenv(key, default=None):
     if key == 'TWITTER_ACCESS_TOKEN':
         return 'foo'
 
-    if key == 'TWICCER_ACCESS_SECRET':
+    if key == 'TWITTER_ACCESS_SECRET':
         return 'foo'
 
     return default
