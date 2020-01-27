@@ -57,7 +57,11 @@ class ActionContext(EventEmitter):
         self._logger.debug('Running \'%s\'.' % compiled)
 
         for actor in self._script.actors:
-            groups, func = actor.match(compiled)
+            if self._script.dry_run:
+                groups, func = actor.match_test(compiled)
+            else:
+                groups, func = actor.match(compiled)
+
             if groups is not None:
                 try:
                     result = func(*groups)

@@ -2,7 +2,6 @@ from base64 import b64decode
 from loda import __version__
 from loda.acting import ActorBase
 import json
-import os
 import re
 import requests
 
@@ -50,6 +49,12 @@ class Actor(ActorBase):
         response.raise_for_status()
         self.token = response.json()
         self.__token_refreshed = True
+
+    def test(self, folder):
+        yield {
+            'title': 'Podcast listening without the app',
+            'url': 'https://podnews.net/update/podinstall-launches'
+        }
 
     def perform(self, folder):
         self.refresh_token()

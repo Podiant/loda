@@ -1,7 +1,8 @@
 from loda.acting import ActorBase
 from loda.exceptions import ConfigError
-import time
+import json
 import os
+import time
 
 
 try:
@@ -82,6 +83,33 @@ class Actor(ActorBase):
 
         return data
 
+    def test_follow(self, criteria):
+        if criteria.startswith('@'):
+            filename = os.path.join(
+                os.path.dirname(
+                    os.path.dirname(__file__)
+                ),
+                'fixtures',
+                'twitter',
+                'test_follow.json'
+            )
+
+            with open(filename, 'rb') as f:
+                return json.load(f)
+        else:
+            filename = os.path.join(
+                os.path.dirname(
+                    os.path.dirname(__file__)
+                ),
+                'fixtures',
+                'twitter',
+                'test_profiles.json'
+            )
+
+            with open(filename, 'rb') as f:
+                for account in json.load(f):
+                    yield account
+
     def follow(self, criteria):
         if criteria.startswith('@'):
             return self.lookup(criteria[1:], follow=True)
@@ -109,6 +137,23 @@ class Actor(ActorBase):
             page += 1
             self.debug('Moving to page %d' % page)
 
+    def test_search(self, criteria):
+        self.context.pop('tweet', None)
+
+        filename = os.path.join(
+            os.path.dirname(
+                os.path.dirname(__file__)
+            ),
+            'fixtures',
+            'twitter',
+            'test_tweets.json'
+        )
+
+        with open(filename, 'rb') as f:
+            for tweet in json.load(f):
+                self.context['tweet'] = tweet
+                yield tweet
+
     def search(self, criteria):
         self.context.pop('tweet', None)
 
@@ -123,6 +168,19 @@ class Actor(ActorBase):
         for tweet in data['statuses']:
             self.context['tweet'] = tweet
             yield tweet
+
+    def test_rt(self, id_str):
+        filename = os.path.join(
+            os.path.dirname(
+                os.path.dirname(__file__)
+            ),
+            'fixtures',
+            'twitter',
+            'test_retweet.json'
+        )
+
+        with open(filename, 'rb') as f:
+            return json.load(f)
 
     def rt(self, id_str):
         if self.has('rt', id_str):
@@ -174,6 +232,19 @@ class Actor(ActorBase):
         self.__rate_limited = True
         self.tag('rate_limited')
         self.debug('Hit Twitter\'s rate limit.')
+
+    def test_tweet(self, text):
+        filename = os.path.join(
+            os.path.dirname(
+                os.path.dirname(__file__)
+            ),
+            'fixtures',
+            'twitter',
+            'test_tweet.json'
+        )
+
+        with open(filename, 'rb') as f:
+            return json.load(f)
 
     def tweet(self, text):
         data = self._post(TWEET_URL, status=text)

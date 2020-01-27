@@ -40,7 +40,25 @@ class ActorBase(EventEmitter):
 
         return None, None
 
+    def match_test(self, expr):
+        if isinstance(self.receive, list):
+            for regex in self.receive:
+                match = re.search(regex, expr)
+                if match is not None:
+                    return match.groups(), self.test
+        elif isinstance(self.receive, dict):
+            for func, regexes in self.receive.items():
+                for regex in regexes:
+                    match = re.search(regex, expr)
+                    if match is not None:
+                        return match.groups(), getattr(self, 'test_%s' % func)
+
+        return None, None
+
     def perform(self, *args):  # pragma: no cover
+        raise NotImplementedError('Method not implemented')
+
+    def test(self, *args):  # pragma: no cover
         raise NotImplementedError('Method not implemented')
 
     def info(self, message):

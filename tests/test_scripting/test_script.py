@@ -238,3 +238,42 @@ def test_bad_file():
     assert ctx.value.args[0] == (
         'Script must be a collection of key-value pairs.'
     )
+
+
+def test_dry_run():
+    filename = os.path.join(
+        os.path.dirname(
+            os.path.dirname(__file__)
+        ),
+        'fixtures',
+        'test_items.yaml'
+    )
+
+    script = Script(
+        {
+            'actors': [
+                'loda.inoreader',
+                'loda.twitter'
+            ],
+            'builtin': [
+                'hold foo for 1 minute',
+                'release foo',
+                'pick 1 from items',
+                'pick 1 from items at random'
+            ],
+            'rss': [
+                'get latest articles in starred folder'
+            ],
+            'twitter': [
+                'follow @jack',
+                'follow #podcasters',
+                'find tweets from:jack',
+                'tweet "hello Jack"',
+                'rt 12345'
+            ]
+        }
+    )
+
+    script.fixtures.add('items', filename)
+    script.dry_run = True
+    script.run()

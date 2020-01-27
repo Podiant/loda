@@ -39,9 +39,15 @@ class Actor(ActorBase):
         if timestamp > current_timestamp:
             self.put(name, int(timestamp))
 
+    def test_hold(self, name, timeframe):
+        pass
+
     def release(self, name):
         if self.has(name):
             self.delete(name)
+
+    def test_release(self, name):
+        pass
 
 
 class HoldingHelper(dict):

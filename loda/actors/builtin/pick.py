@@ -20,6 +20,9 @@ class Actor(ActorBase):
         for choice in choices:
             yield choice
 
+    def test_random(self, count, fixture_name):
+        return self.random(count, fixture_name)
+
     def first(self, count, fixture_name):
         items = self.fixture(fixture_name)
         count = int(count)
@@ -27,3 +30,6 @@ class Actor(ActorBase):
 
         for choice in choices:
             yield choice
+
+    def test_first(self, count, fixture_name):
+        return self.first(count, fixture_name)

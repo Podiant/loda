@@ -29,6 +29,7 @@ class Script(EventEmitter):
             raise ConfigError('Config must be a dict.')
 
         super().__init__()
+        self.dry_run = False
         self.__logger = getLogger('loda')
         self.__tags = []
 

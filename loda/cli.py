@@ -11,8 +11,9 @@ import sys
 
 
 @click.command()
-@click.option('--debug/--no-debug', default=False)
-def main(debug):
+@click.option('--debug', is_flag=True)
+@click.option('--dry-run', is_flag=True)
+def main(debug, dry_run):
     handler = logging.StreamHandler()
     root = logging.getLogger('loda')
 
@@ -53,6 +54,7 @@ def main(debug):
         logger.warn(str(ex), exc_info=debug)
 
     script.on('line.error', line_error)
+    script.dry_run = dry_run
 
     try:
         script.run()
