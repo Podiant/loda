@@ -47,7 +47,7 @@ class Actor(ActorBase):
         )
 
         response.raise_for_status()
-        self.token = response.json()
+        self.__token = response.json()
         self.__token_refreshed = True
 
     def test(self, folder):
