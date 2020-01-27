@@ -85,7 +85,7 @@ class ActionContext(EventEmitter):
         try:
             template = self._script.action_templates[action_name]
         except KeyError:
-            raise ScriptError('Action template @%s not found.' % action_name)
+            raise ScriptError('Action template $%s not found.' % action_name)
 
         template.prep()
 

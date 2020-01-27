@@ -73,12 +73,12 @@ class Script(EventEmitter):
                 }
 
             if not isinstance(action_config, dict):
-                if not action_name.startswith('@'):
+                if not action_name.startswith('$'):
                     raise ConfigError(
                         'stage config must be a dict or list.'
                     )
 
-            if not action_name.startswith('@'):
+            if not action_name.startswith('$'):
                 action = None
                 stage_name = action_config.pop('stage', 'default')
 

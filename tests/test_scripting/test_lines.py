@@ -176,11 +176,11 @@ def test_each_increment():
                 'tests.generator',
                 'tests.logic'
             ],
-            '@loop': ['increment foo'],
+            '$loop': ['increment foo'],
             'default': [
                 {
                     'line': 'generate',
-                    'each': '@loop'
+                    'each': '$loop'
                 }
             ]
         }
@@ -204,11 +204,11 @@ def test_each_set():
                 'tests.generator',
                 'tests.logic'
             ],
-            '@loop': ['set foo = {{ counter }}'],
+            '$loop': ['set foo = {{ counter }}'],
             'default': [
                 {
                     'line': 'generate',
-                    'each': '@loop'
+                    'each': '$loop'
                 }
             ]
         }
@@ -232,14 +232,14 @@ def test_each_break():
                 'tests.generator',
                 'tests.logic'
             ],
-            '@loop': [
+            '$loop': [
                 'increment foo',
                 'break'
             ],
             'default': [
                 {
                     'line': 'generate',
-                    'each': '@loop'
+                    'each': '$loop'
                 }
             ]
         }
@@ -266,7 +266,7 @@ def test_each_invalid():
             'default': [
                 {
                     'line': 'generate',
-                    'each': '@loop'
+                    'each': '$loop'
                 }
             ]
         }
