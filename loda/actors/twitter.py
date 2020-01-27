@@ -77,6 +77,9 @@ class Actor(ActorBase):
                     self.__follow_limit()
                     return
 
+                if error.get('code') == 327:
+                    return
+
                 self.fail(
                     error.get('message')
                 )
@@ -190,8 +193,11 @@ class Actor(ActorBase):
         self.__rt_count += 1
         self.push('rt', id_str)
         self.tag('tweeted')
-        self.debug('Pausing for 3 seconds')
-        time.sleep(3)
+
+        if data is not None:
+            self.debug('Pausing for 3 seconds')
+            time.sleep(3)
+
         return data
 
     def lookup(self, screen_name, follow=False):

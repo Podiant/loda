@@ -35,5 +35,7 @@ class Stage(EventEmitter):
         for action in self.__actions:
             try:
                 action.run()
-            except (StorageError, FixtureError, PerformanceError):
+            except (StorageError, FixtureError):
                 raise
+            except PerformanceError as ex:
+                self.__script.emit('action.error', ex)

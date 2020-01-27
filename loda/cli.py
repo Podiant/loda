@@ -50,10 +50,11 @@ def main(debug, dry_run):
 
     logger.debug('Running script.')
 
-    def line_error(ex):
+    def err(ex):
         logger.warn(str(ex), exc_info=debug)
 
-    script.on('line.error', line_error)
+    script.on('line.error', err)
+    script.on('action.error', err)
     script.dry_run = dry_run
 
     try:

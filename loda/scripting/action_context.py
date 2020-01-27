@@ -68,7 +68,9 @@ class ActionContext(EventEmitter):
             if groups is not None:
                 try:
                     result = func(*groups)
-                except (ScriptError, StorageError, FixtureError):
+                except (
+                    ScriptError, StorageError, FixtureError, PerformanceError
+                ):
                     raise
                 except Exception:
                     raise PerformanceError(
