@@ -35,6 +35,9 @@ class ActionContext(EventEmitter):
         self._lines = config.pop('lines', [])
         self._action = action
 
+    def _compile(self, expr):
+        return self._script.compile_expression(expr)
+
     def _run_line(self, expr, callback=None):
         for tag in self._unless:
             if self._script.tagged(tag):
@@ -53,7 +56,7 @@ class ActionContext(EventEmitter):
         if expr == 'break':
             raise Break()
 
-        compiled = self._script.compile_expression(expr)
+        compiled = self._compile(expr)
         self._logger.debug('Running \'%s\'.' % compiled)
 
         for actor in self._script.actors:
@@ -119,7 +122,14 @@ class ActionContext(EventEmitter):
 
 class ActionTemplateContext(ActionContext):
     def run(self, context):
+        old_compile = self._compile
+
+        def compile(expr):
+            return self._script.compile_expression(expr, context)
+
+        self._compile = compile
         self._action.run(context)
+        self._compile = old_compile
 
     def end(self):
         for line in self._action._lines:

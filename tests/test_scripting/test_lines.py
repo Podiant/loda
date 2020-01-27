@@ -204,7 +204,7 @@ def test_each_set():
                 'tests.generator',
                 'tests.logic'
             ],
-            '$loop': ['set foo = {{ counter }}'],
+            '$loop': ['set foo = {{ number }}'],
             'default': [
                 {
                     'line': 'generate',
